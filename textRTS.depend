@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1457742590 source:c:\cpp\textrts\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<sstream>
+	<stdio.h>
+	"game.h"
+
+1457743312 source:c:\cpp\textrts\game.cpp
+	"game.h"
+
+1457743012 c:\cpp\textrts\game.h
+	<iostream>
+	<vector>
+	<math.h>
+
